@@ -164,7 +164,6 @@ class MapDraw extends Component {
                 >
                     <FullscreenControl position="top-left" />
                     <NavigationControl position="top-left" />
-                    <GeolocateControl position="top-left"/>
                     
                     <ScaleControl />
                     <DrawMarkers markers={markers} />
